@@ -1,0 +1,8 @@
+langchain
+pandas
+requests
+
+
+
+
+
